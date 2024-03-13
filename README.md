@@ -63,3 +63,6 @@ Packages:
 >
 > Pacotes:
 > [dada2](https://bioconductor.org/packages/release/bioc/html/dada2.html) , [phyloseq](https://bioconductor.org/packages/release/bioc/html/phyloseq.html), e [tidyverse](https://tidyverse.tidyverse.org/)
+
+# **Tutorial Files from Microbiome Center Workshop**
+[Link to 16s amplicon section of 2023 workshop](https://github.com/Penn-State-Microbiome-Center/KickStart-Workshop-2023/tree/main/Day2-AmpliconR)
