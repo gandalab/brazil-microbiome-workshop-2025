@@ -48,11 +48,17 @@ Callahan BJ, McMurdie PJ, Rosen MJ, Han AW, Johnson AJ, Holmes SP. DADA2: High-r
 
 Gloor GB, Macklaim JM, Pawlowsky-Glahn V, Egozcue JJ. Microbiome Datasets Are Compositional: And This Is Not Optional. Front Microbiol. 2017;8:2224. Published 2017 Nov 15. doi:10.3389/fmicb.2017.02224 [Link](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2017.02224/full)
 
+# **PDFs (password protected)**
+
+> 🇧🇷 PDFs - protegidos por senha
+>
+> [Link](https://pennstateoffice365-my.sharepoint.com/:f:/g/personal/evk5387_psu_edu/EoJ3_tCmtSVKuaGY08kSN4cBrZQRlkDNcdXJIuWynHl7TQ?e=tovqti)
+> 
 # **Required Software**
 
 Software:
-[R and Rstudio](https://cran.rstudio.com/)
-
+[R](https://cran.rstudio.com/)
+[Rstudio](https://posit.co/products/open-source/rstudio/)
 Packages: 
 [dada2](https://bioconductor.org/packages/release/bioc/html/dada2.html) , [phyloseq](https://bioconductor.org/packages/release/bioc/html/phyloseq.html), and [tidyverse](https://tidyverse.tidyverse.org/)
 
@@ -67,6 +73,25 @@ Packages:
 # **Tutorial Files from Microbiome Center Workshop**
 [Link to 16s amplicon section of 2023 workshop](https://github.com/Penn-State-Microbiome-Center/KickStart-Workshop-2023/tree/main/Day2-AmpliconR)
 
+
+# **Best practices for differential abundance analysis**
+
+Article: [Beyond Normalization: Incorporating Scale Uncertainty in Microbiome and Gene Expression Analysis](https://www.biorxiv.org/content/10.1101/2024.04.01.587602v1.full)
+
+Package: [ALDEx2](https://www.bioconductor.org/packages/release/bioc/html/ALDEx2.html)
+
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+# 🔹Extra Material🔹
+
+## **Textbook on experimental design, bias, etc - Veterinary Epidemiologic Research**
+
+[Veterinary Epidemiologic Research](https://projects.upei.ca/ver/)
+
+Dohoo, I., Martin, W., & Stryhn, H. (2009). Veterinary epidemiologic research (2nd ed.). VER Inc
+
+Veterinary Epidemiologic Research is a comprehensive text covering the key principles and methods used in veterinary epidemiologic research. It is written primarily for researchers and graduate students in veterinary epidemiology, but the material is equally applicable to those in related disciplines (human epidemiology, public health etc).
 
 # **Short lectures**
 [Link to an overview of sequencing methodologies](https://psu.mediaspace.kaltura.com/media/Next+Generation+Sequencing/1_12vugl0d)
