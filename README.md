@@ -1,4 +1,4 @@
-# brazil-microbiome-workshop-2024
+# brazil-microbiome-workshop-2025
 Repo to contain all relevant information for the microbiome workshop at USP FZEA on March 11-15 2025
 
 # **About**
